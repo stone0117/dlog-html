@@ -1,0 +1,20 @@
+{
+  "name": "dlog-html",
+  "version": "1.0.0",
+  "description": "dlog-html",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stone0117/dlog-html.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stone0117/dlog-html/issues"
+  },
+  "homepage": "https://github.com/stone0117/dlog-html#readme"
+}
